@@ -1,9 +1,0 @@
-C:\Users\Ivan\RiderProjects\TestingSystem\TestingSystem.DAL\bin\Debug\netcoreapp3.1\TestingSystem.DAL.deps.json
-C:\Users\Ivan\RiderProjects\TestingSystem\TestingSystem.DAL\bin\Debug\netcoreapp3.1\TestingSystem.DAL.dll
-C:\Users\Ivan\RiderProjects\TestingSystem\TestingSystem.DAL\bin\Debug\netcoreapp3.1\TestingSystem.DAL.pdb
-C:\Users\Ivan\RiderProjects\TestingSystem\TestingSystem.DAL\obj\Debug\netcoreapp3.1\TestingSystem.DAL.csprojAssemblyReference.cache
-C:\Users\Ivan\RiderProjects\TestingSystem\TestingSystem.DAL\obj\Debug\netcoreapp3.1\TestingSystem.DAL.AssemblyInfoInputs.cache
-C:\Users\Ivan\RiderProjects\TestingSystem\TestingSystem.DAL\obj\Debug\netcoreapp3.1\TestingSystem.DAL.AssemblyInfo.cs
-C:\Users\Ivan\RiderProjects\TestingSystem\TestingSystem.DAL\obj\Debug\netcoreapp3.1\TestingSystem.DAL.csproj.CoreCompileInputs.cache
-C:\Users\Ivan\RiderProjects\TestingSystem\TestingSystem.DAL\obj\Debug\netcoreapp3.1\TestingSystem.DAL.dll
-C:\Users\Ivan\RiderProjects\TestingSystem\TestingSystem.DAL\obj\Debug\netcoreapp3.1\TestingSystem.DAL.pdb
